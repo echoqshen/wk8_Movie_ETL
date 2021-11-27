@@ -1,7 +1,16 @@
+# Adding config.py file.
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# csv
+*.csv
+
+#json
+*.json
 
 # C extensions
 *.so
