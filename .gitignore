@@ -7,10 +7,10 @@ __pycache__/
 *$py.class
 
 # csv
-*.csv
+ratings.csv
 
 #json
-*.json
+#.json
 
 # C extensions
 *.so
